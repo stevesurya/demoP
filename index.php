@@ -9,8 +9,6 @@
 	
 	// FIrst line code goes here
 	
-	//Fixing Version 1 Bugs in this file
-=======
 	Version			:		2.0
 	
 	// FIrst line code goes here
